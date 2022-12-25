@@ -4,8 +4,9 @@
 
 ## Publication
 
-TITLE PENDING
+Robust and Accessible: The CU MultiLang Dataset and Continuing Open-Set Speech LID
  - URL PENDING
+ - Please read the paper for a summary of both the new multi-language speech dataset, as well as the goals, architecture, and results of our language identification system.
 
 ## Previous Works
 
@@ -16,7 +17,12 @@ Modernizing Open-Set Speech Language Identification
 
 ## Project Summary
 Building an accessible, robust, and general solution for open-set speech language identification.
+ - Capable of identifying know languages with high accuracy, but also recognizing and learning unknown languages on-the-fly without having to retrain the foundation TDNN model.
+ - Highly portable, with not only full-system inference being possible on incredibly lightweight hardware, but even full model training on reasonable developer hardware (single-gpu, 32GB RAM system can train in a matter of hours).
+
 Also building a diverse, high-coverage, open-source speech dataset spanning over 50 languages.
+ - Used to make the system robust and generalized.
+ - Not only coverage of most language families, but targeted diversity in speakers and dialects within each language as well.
 
 ## CU MultiLang Dataset
 The full dataset can be accessed at the below link:
