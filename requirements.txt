@@ -4,4 +4,4 @@ pandas
 matplotlib
 kaldiio
 scikit-learn
-plda
+https://github.com/RaviSoji/plda/tarball/master
