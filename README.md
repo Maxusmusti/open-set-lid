@@ -35,3 +35,16 @@ Test the tdnn-final-submission TDNN model
 
 Train lda and plda layers using saved-tdnn-outputs
  - `python3 train_lda_plda.py ./saved-tdnn-outputs`
+
+## Feature Generation
+MFCC + pitch features were generated using Kaldi
+ - MFCC and pitch conf files can be found in the `mfcc-confs` subdir
+ - Also in that subdir is our modified version of the `make_mfcc_pitch.sh` script
+   - Originally found in and runnable from XXXXXXXXX
+
+## Open-Source Citations
+Language Data Sources
+ - FILL
+ - FILL
+
+Basic PyTorch TDNN Reference: https://github.com/cvqluu/TDNN
