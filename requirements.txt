@@ -1,0 +1,7 @@
+numpy
+torch
+pandas
+matplotlib
+kaldiio
+scikit-learn
+plda
