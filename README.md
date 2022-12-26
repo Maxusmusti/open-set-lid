@@ -17,7 +17,7 @@ Modernizing Open-Set Speech Language Identification
 
 ## Project Summary
 Building an accessible, robust, and general solution for open-set speech language identification.
- - Capable of identifying know languages with high accuracy, but also recognizing and learning unknown languages on-the-fly without having to retrain the foundation TDNN model.
+ - Capable of identifying known languages with high accuracy, but also recognizing and learning unknown languages on-the-fly without having to retrain the foundation TDNN model.
  - Highly portable, with not only full-system inference being possible on incredibly lightweight hardware, but even full model training on reasonable developer hardware (single-gpu, 32GB RAM system can train in a matter of hours).
 
 Also building a diverse, high-coverage, open-source speech dataset spanning over 50 languages.
