@@ -5,7 +5,7 @@
 ## Publication
 
 Robust and Accessible: The CU MultiLang Dataset and Continuing Open-Set Speech LID
- - URL PENDING
+ - [arXiv Publication URL](https://arxiv.org/abs/2308.14951)
  - Please read the paper for a summary of both the new multi-language speech dataset, as well as the goals, architecture, and results of our language identification system.
 
 ## Previous Works
